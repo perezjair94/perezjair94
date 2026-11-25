@@ -37,7 +37,7 @@ Most of my work is SaaS dashboards, landing pages and internal tools for small b
 
 | Project | What it is | Stack |
 |---|---|---|
-| **GimnFit** | Gym management platform: private admin dashboard + public landing, in a single monorepo | Next.js · TypeScript · Supabase/PostgreSQL |
+| [**GimnFit**](https://www.gimnfit.com) · [live](https://www.gimnfit.com) | Gym management platform: private admin dashboard + public landing, in a single monorepo | Next.js · TypeScript · Supabase/PostgreSQL |
 | [**Bank Dashboard**](https://github.com/perezjair94/bank-dashboard) | Privacy-first finance dashboard: parses bank statements (PDF) and charts spending, 100% in the browser | React · Vite · Zustand · Recharts · IndexedDB |
 | [**FC GOAT Tracker**](https://github.com/perezjair94/fc-goat-tracker) · [live](https://fc-goat-tracker.vercel.app) | EA Sports FC match tracker for friends: GOAT rankings, seasons and head-to-head stats, secured with Postgres RLS | Next.js · Supabase · shadcn/ui · Zod |
 | [**Making Life in Ciudad Verde**](https://github.com/perezjair94/research-project-landing) · [live](https://research-project-landing.vercel.app) | Website for a participatory research project: residents' photo stories organized by theme, fully static | Next.js · React · Tailwind CSS |
