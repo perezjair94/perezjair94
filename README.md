@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jair Pérez 👋</h1>
-<p align="center"><b>Full-Stack Developer</b> · TypeScript · React / Next.js · Node.js · PostgreSQL<br/>📍 Medellín, Colombia · Open to remote work</p>
+<p align="center"><b>Full-Stack Developer</b> · TypeScript · React / Next.js · Node.js · PostgreSQL<br/>📍 Turbo, Antioquia, Colombia · Open to remote work</p>
 
 ---
 
@@ -39,7 +39,7 @@ Most of my work is SaaS dashboards, landing pages and internal tools for small b
 |---|---|---|
 | **GimnFit** | Gym management platform: private admin dashboard + public landing, in a single monorepo | Next.js · TypeScript · Supabase/PostgreSQL |
 | [**Bank Dashboard**](https://github.com/perezjair94/bank-dashboard) | Privacy-first finance dashboard: parses bank statements (PDF) and charts spending, 100% in the browser | React · Vite · Zustand · Recharts · IndexedDB |
-| **FC GOAT Tracker** | Stats tracker for a football team, with auth and a Postgres backend | Next.js · Supabase · shadcn/ui · Zod |
+| [**FC GOAT Tracker**](https://github.com/perezjair94/fc-goat-tracker) · [live](https://fc-goat-tracker.vercel.app) | EA Sports FC match tracker for friends: GOAT rankings, seasons and head-to-head stats, secured with Postgres RLS | Next.js · Supabase · shadcn/ui · Zod |
 | [**Elemente**](https://github.com/perezjair94/elemente-backend) | GraphQL API with real-time subscriptions + [React frontend](https://github.com/perezjair94/elemente-frontend) | NestJS · GraphQL · MongoDB · WebSockets |
 | [**wsproxy**](https://github.com/perezjair94/wsproxy) | WebSocket proxy | Go |
 
