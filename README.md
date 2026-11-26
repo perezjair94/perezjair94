@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Jair Pérez 👋</h1>
 <p align="center"><b>Full-Stack Developer</b> · TypeScript · React / Next.js · Node.js · PostgreSQL<br/>📍 Turbo, Antioquia, Colombia · Open to remote work</p>
+<p align="center"><a href="https://www.linkedin.com/in/jairperz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></p>
 
 ---
 
 I build web products end to end: from the database schema and API to the UI your users click on.
+I have 7+ years of experience, working remotely with teams in the US, UK, Canada and Colombia.
 Most of my work is SaaS dashboards, landing pages and internal tools for small businesses, usually shipped on **Next.js + Supabase/PostgreSQL** and deployed to **Vercel**.
 
 ### 🛠️ Tech stack
@@ -12,6 +14,7 @@ Most of my work is SaaS dashboards, landing pages and internal tools for small b
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
@@ -27,6 +30,7 @@ Most of my work is SaaS dashboards, landing pages and internal tools for small b
 
 **Data & infra**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
@@ -42,7 +46,7 @@ I also practice harness engineering: a `CLAUDE.md` per project, custom skills, h
 
 | Project | What it is | Stack |
 |---|---|---|
-| **GimnFit** · [gimnfit.com](https://www.gimnfit.com) | Gym management platform: private admin dashboard + public landing, in a single monorepo | Next.js · TypeScript · PostgreSQL (Neon) |
+| **GimnFit** · [gimnfit.com](https://www.gimnfit.com) | Co-founder · Gym management SaaS used by 5 gyms: private admin dashboard + public landing, in a single monorepo | Next.js · TypeScript · PostgreSQL (Neon) |
 | [**Bank Dashboard**](https://github.com/perezjair94/bank-dashboard) | Privacy-first finance dashboard: parses bank statements (PDF) and charts spending, 100% in the browser | React · Vite · Zustand · Recharts · IndexedDB |
 | [**FC GOAT Tracker**](https://github.com/perezjair94/fc-goat-tracker) · [live](https://fc-goat-tracker.vercel.app) | EA Sports FC match tracker for friends: GOAT rankings, seasons and head-to-head stats, secured with Postgres RLS | Next.js · Supabase · shadcn/ui · Zod |
 | [**Making Life in Ciudad Verde**](https://github.com/perezjair94/research-project-landing) · [live](https://research-project-landing.vercel.app) | Website for a participatory research project: residents' photo stories organized by theme, fully static | Next.js · React · Tailwind CSS |
