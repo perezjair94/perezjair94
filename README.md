@@ -33,6 +33,11 @@ Most of my work is SaaS dashboards, landing pages and internal tools for small b
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+### 🤖 How I use AI to code
+
+I work daily with **Claude Code** and **OpenAI Codex**. Before any code gets written, I have the agent draft a plan and I review it. I use a larger model for planning and design, and a faster, cheaper one for mechanical tasks so I don't waste tokens.
+I also practice harness engineering: a `CLAUDE.md` per project, custom skills, hooks and MCP servers (Vercel, Supabase, Linear) give the agent context and guardrails. I use AI for code review, tests and debugging too, and I read every diff before I merge it.
+
 ### 🚀 Featured work
 
 | Project | What it is | Stack |
